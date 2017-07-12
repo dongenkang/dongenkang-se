@@ -2,7 +2,7 @@ package com.kongzhu.demo.base;
 
 /**
  * 使用class关键字定义一个类，类名叫做Dongenkang
- * @author caiwenlong
+ * @author dongenkang
  */
 public class Dongenkang {
 
