@@ -14,6 +14,7 @@ public class Dongenkang {
     public static void main(String[] args) {
         // 控制台Console打印字符串"Hello World"，然后换行
         System.out.println("Hello World");
+        System.out.println("欢迎来到java世界！");
     }
 
 }
